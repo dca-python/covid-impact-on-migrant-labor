@@ -1,0 +1,38 @@
+
+2019 to 2021, Employed to Not-Employed
+=========================================================================
+                                              (1)               (2)      
+-------------------------------------------------------------------------
+Indirect Migrant                              1.14                       
+EU Migrant                                    1.05                       
+Non-EU Migrant                                1.12                       
+Refugees                                      0.70                       
+Non-EU Migrant                                                 1.22      
+Refugees                                                      0.27**     
+Length of Stay                                                 0.99      
+Woman                                         1.18             2.34      
+Child under 16 in Household                  0.57*             0.48      
+Woman x Child                               4.47***            2.31      
+Mid-tier Education                            1.03             0.49      
+High-tier Education                           1.29            0.22**     
+Vocational Training                           1.60             1.12      
+Marginal Employment                         1.98***            1.47      
+Employed by Employment Agency                 1.05             0.90      
+Permanent Work Contract                     0.55***            0.44*     
+Large Company                                 0.80             0.52      
+1-3 Years with Firm                          0.64*             0.76      
+3+ Years with Firm                           0.63*             1.53      
+Critical Relevance                            0.99             1.14      
+Mid-level Teleworkability                     0.80             1.00      
+High-level Teleworkability                    0.62             1.37      
+Mid-tier Requirement Level                    0.81             1.57      
+High-tier Requirement Level                  0.53**            0.25*     
+Interactive Non-Routine Tasks                 0.97             0.28      
+Cognitive Routine Tasks                       0.82             0.45      
+Manual Routine Tasks                          0.55             0.39      
+Manual Non-Routine Tasks                      0.85             0.26*     
+age_q21                                                                  
+N                                            7,723             1,341     
+Log Likelihood                             -1,938.89          -307.65    
+=========================================================================
+Notes: ***, **, * denote significance at the 1, 5 and 10 percent level.  
