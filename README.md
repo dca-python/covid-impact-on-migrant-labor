@@ -1,3 +1,5 @@
+# Labor Market Effects of the COVID-19 Pandemic on Individuals with Migratory Background in Germany
+
 This repository is a refactored version of the R code underlying my masters thesis entitled "Labor Market Effects of the COVID-19 Pandemic on Individuals with Migratory Background in Germany".
 
 
