@@ -1,5 +1,11 @@
+# Raw Data
 data/
+
+# Developer Files
 notebooks/
 upskilling/
 exploration/
 to_be_refactored/
+
+# Temporary Files
+.DS_Store
